@@ -40,4 +40,4 @@ print("hii ");
 }  
 ```
 **to insert emojis**  
-:heart:RISHI:sunglasses::yum::heart:
+:heart:RISHI:sunglasses::yum:
